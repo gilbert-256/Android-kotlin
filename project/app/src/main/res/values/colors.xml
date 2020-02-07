@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#F66506</color>
+    <color name="primary_dark">#0468a3</color>
+    <color name="primary_darker">#0468a3</color>
+    <color name="accent">#eda20b</color>
+    <color name="colorPrimary">#F66506</color>
+    <color name="colorPrimaryDark">#23A7D6</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#029dde</color>
+    <color name="gradStop">#01567a</color>
+    <color name="regscreenbg">#e8e8e8</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+
+</resources>
